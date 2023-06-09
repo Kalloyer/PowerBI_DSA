@@ -1,4 +1,0 @@
-Criar seu próprio portifólio de projetos e colocar em um site/blog
-Quando trabalhar com projetos SEMPRE citar a fonte
-E descrever sobre o projeto e o que foi criado
-Ideia: Criar um dashboard de empresas no mercado de açoes mostrando quando ela está boa para comprar referente ao seu P/VP (Utilizar a API para pegar os dados em tempo real)
