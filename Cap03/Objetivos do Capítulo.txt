@@ -1,0 +1,2 @@
+Nesse Capitulo o objetivo foi criar um dashboard de análise de dados de vendas, custo, margem de lucro e KPI no Power BI.
+Além de aprender a modelagem de dados, os relacionamento e um pouco da linguagem DAX.

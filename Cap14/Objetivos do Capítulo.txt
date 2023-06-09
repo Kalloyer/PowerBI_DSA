@@ -1,0 +1,1 @@
+Nesse Capitulo o objetivo foi mostrar como utilziar o SQL para extração dos dados.

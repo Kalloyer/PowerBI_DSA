@@ -1,0 +1,1 @@
+Nesse Capitulo o objetivo foi  demonstrar como a Linguagem M pode ser usada no Power BI para realizar uma das mais importantes tarefas em Ciência de Dados, a Engenharia de Atributos.

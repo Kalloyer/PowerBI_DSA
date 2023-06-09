@@ -1,0 +1,1 @@
+Nesse Capitulo o objetivo foi criar um dashboard de análise de dados comerciais no Power BI.

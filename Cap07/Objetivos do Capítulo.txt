@@ -1,0 +1,1 @@
+Nesse Capitulo o objetivo foi criar um dashboard de análise de logística no Power BI.
